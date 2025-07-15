@@ -1,7 +1,7 @@
-1.1
+1.2
 🆕 اضافة خيار تعديل التاريخ
 🐛 إمكانية اختيار التاريخ والحصول على الرقم
 🌐 تحسين في التطبيق
 
-https://github.com/deva-app/exe-link/blob/main/links_v1.1.exe
+https://github.com/deva-app/exe-link/raw/refs/heads/main/links_v1.2.exe
 
